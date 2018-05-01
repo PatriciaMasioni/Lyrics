@@ -6,6 +6,6 @@ Skill practiced :
 * Responsiveness using @media queries
 
 
-##Live demo
+## Live demo
 
 [View demo](https://patriciamasioni.github.io/Lyrics-page/)
